@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project involves training a simple Convolutional Neural Network (CNN) to recognize hand gestures representing numbers from 1 to 3, as well as thumb direction gestures.  
-The dataset consists of 24 images per class, where each class corresponds to a specific hand gesture.
+The dataset consists of 13 images per class, where each class corresponds to a specific hand gesture.
 
 ## Dataset
 - Classes:  
